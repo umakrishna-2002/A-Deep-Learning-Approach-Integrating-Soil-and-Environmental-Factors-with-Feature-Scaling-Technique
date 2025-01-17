@@ -1,4 +1,9 @@
 # A-Deep-Learning-Approach-Integrating-Soil-and-Environmental-Factors-with-Feature-Scaling-Technique
+
+![image](https://github.com/user-attachments/assets/695eb0d8-5c64-4196-b4ea-e13054c05938)
+
+
+
 Using Feedforward Neural Networks (FNN), Artificial Neural Network (ANN), Recurrent Neural Network (RNN), RNN with Bahdanau model (attention layer) and Gated Recurrent Unit (GRU) with feature scaling techniques. 
 FNN (97.88) along with GRU (97.5) models performed with high accuracy.
 
